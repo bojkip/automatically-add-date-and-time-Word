@@ -1,4 +1,4 @@
-# Automatically add date and time to filename when saving a word document
+# Automatically add date and time to filename when saving a Word document
 
 1.
 ![Snimka zaslona 2024-03-16 164349](https://github.com/bojkip/nekoime/assets/91488932/7e42c018-2add-4a28-b3f7-73bf21e0f910)
