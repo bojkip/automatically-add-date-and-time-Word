@@ -56,11 +56,11 @@ End Sub
 4.
 ![Snimka zaslona 2024-03-16 165609](https://github.com/bojkip/nekoime/assets/91488932/15ff0cdf-2efc-4625-bf42-1f05691643bd)
 
-    4.1
+
       
 
 
-6.
+5.
 ![Snimka zaslona 2024-03-16 170200](https://github.com/bojkip/nekoime/assets/91488932/6843c56c-55be-4169-bae0-1852f0b101d0)
 
 
