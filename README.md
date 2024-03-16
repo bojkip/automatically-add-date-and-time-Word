@@ -9,7 +9,7 @@ Alt + F8 or Alt + F11
 2.
 ![Snimka zaslona 2024-03-16 164511](https://github.com/bojkip/nekoime/assets/91488932/b31f8b60-315a-4455-81c4-5953aad3a2de)
 
-Copy⬇️ and paste⬆️ code:
+Copy⬇️ and paste⬆️ code (or import code file):
 
 ```
 
